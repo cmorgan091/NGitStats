@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NGitStats.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "commits -r \"C:\\Source\\EnergyAnalytics\" -o \"C:\\Source\\Stats\\EnergyAnalytics-Commits.csv\" --overwrite"
+    }
+  }
+}
